@@ -4,7 +4,6 @@ import {
     Table,
     Thead,
     Tbody,
-    Text,
     Tr,
     Th,
     Td,
@@ -52,10 +51,3 @@ function Card({data}) {
 
 
 export default Card
-
-
-
-{/*{data.map(kuukaudet => (
-                <li> {kuukaudet.kuukausi} {kuukaudet.kulutus}</li>
-                
-            ) */}
